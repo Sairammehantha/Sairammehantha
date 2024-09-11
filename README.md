@@ -2,13 +2,13 @@
 
 **`Full Stack Developer`**
 
-With 6 years in IT experience in developing enterprise applications using technologies like .NET, ReactJS, and Angular. Throughout my career, I've been deeply involved in all phases of the Software Development Lifecycle (SDLC), from analysis and design to coding and implementation.
+With 10 years in IT experience in developing enterprise applications using technologies like .NET, ReactJS, and Angular. Throughout my career, I've been deeply involved in all phases of the Software Development Lifecycle (SDLC), from analysis and design to coding and implementation.
 
 #### Skills & Expertise
-- Languages: .NET (C#), JavaScript
+- Languages: .NET , JavaScript
 - Frameworks: .NET MVC, ReactJS, Angular
-- Database: MS SQL, MongoDB, Firebase
-- Web Technologies: HTML, CSS, Bootstrap, Tailwind CSS
+- Database: MS SQL, MongoDb
+- Web Technologies: HTML, CSS, Bootstrap
 - IDEs: Visual Studio, Visual Studio Code
 - Version Control: Git, GitHub
 
